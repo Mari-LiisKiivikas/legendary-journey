@@ -3,12 +3,18 @@
 ## retsept
 - nimi
 - pilt
-- juhend
-- kogus
-- aeg
-- kategooria
+- kirjeldus
+- valmistamise-juhend
+- portsjonite-arv
+- valminstamise-aeg
+- kategooriad
 
 ### koostis
 - nimi
 - kogus
 - ühik
+
+## kasutaja
+- nimi
+- epost
+- id
