@@ -3,15 +3,14 @@
 see tekst on **bold**, *italic*
 
 siin on list:
-- esimene
+- *esimene*
 - **teine**
-- ...
+- kolmas
 
 ## tabel
 
 | A | B |
 |---|---|
 | abc | 1 |
-| dfg | 1000 |
 
 see on [viide](https://google.com)
