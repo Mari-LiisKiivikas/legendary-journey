@@ -1,6 +1,8 @@
 # legendary-journey
 
-## retsept
+## andmemudel
+
+### retsept
 - nimi
 - pilt
 - kirjeldus
@@ -9,12 +11,18 @@
 - valminstamise-aeg
 - kategooriad
 
-### koostis
+#### koostis
 - nimi
 - kogus
 - ühik
 
-## kasutaja
+### kasutaja
 - nimi
 - epost
 - id
+
+
+## toimingud/vaated
+- avaleht
+- retsepti sisestus
+- retsepti otsing
