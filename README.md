@@ -1,16 +1,14 @@
 # legendary-journey
 
-see tekst on **bold**, *italic*
+## retsept
+- nimi
+- pilt
+- juhend
+- kogus
+- aeg
+- kategooria
 
-siin on list:
-- *esimene*
-- **teine**
-- kolmas
-
-## tabel
-
-| A | B |
-|---|---|
-| abc | 1 |
-
-see on [viide](https://google.com)
+### koostis
+- nimi
+- kogus
+- ühik
